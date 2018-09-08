@@ -48,6 +48,10 @@ spg_help()
    echo "            several passwords"
    echo "Be \"reasonable\" with the values entered to avoid clogging the terminal"
    echo
+   echo "This help:"
+   echo "/path/to/spg.sh --help"
+   echo "/path/to/spg.sh whatever"
+   echo
    exit
 }
 
