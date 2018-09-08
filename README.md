@@ -1,6 +1,6 @@
 # spg
 <br>
-spg.sh : simple pasword generator (from urandom)<br><br>
+spg.sh : simple password generator (from urandom)<br><br>
 &nbsp;&nbsp;&nbsp;defaults to (press <ENTER> 3x to quickly go through them)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$password_default_size characters<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alphanumeric & non-alphanumeric (p4\$\$W0rD)<br>
