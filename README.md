@@ -10,7 +10,6 @@ spg.sh : simple password generator (from urandom)<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;only alphanumeric characters (p4s5W0rD)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;several passwords<br><br>
 Be "reasonable" with the values entered to avoid clogging the terminal<br><br>
-
-Help
-&nbsp;&nbsp;&nbsp;spg.sh --help
-&nbsp;&nbsp;&nbsp;spg.sh --whatever
+Help<br>
+&nbsp;&nbsp;&nbsp;spg.sh --help<br>
+&nbsp;&nbsp;&nbsp;spg.sh --whatever<br>
